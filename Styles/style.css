@@ -75,3 +75,113 @@ nav{
    font-family: "Azeret Mono", monospace;
    margin-bottom: 32px;
 }
+
+
+/* Css of Why Web Development part */
+.development{
+   background-color: rgba(13, 19, 33, 0.02);
+   width: 1140px;
+   margin: 74px auto 0;
+}
+
+.dev-container{
+   width: 946px;
+   margin: auto;
+}
+
+.dev-description{
+   width: 852px;
+   padding: 80px 47px 48px;
+   text-align: center;
+}
+
+.devp{
+   font-size: 16;
+   font-family: "Azeret Mono", monospace;
+   color: #0D1321;
+}
+
+.devh2{
+  margin-bottom: 24px;
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Azeret Mono", monospace;
+  color: #0D1321;
+}
+
+.sub-dev{
+   width: 946px;
+   height: 336px;
+   background-color: white;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 48px 48px 20px 48px;
+   margin-bottom: 32px;
+
+}
+
+.sub-dev1{
+    width: 477px;
+    height: 219px;
+    text-align: left;
+}
+
+.sub-devh3{
+    width: 340px;
+    font-size: 24;
+    font-weight: bold;
+    font-family: "Azeret Mono", monospace;
+    color: rgba(13, 19, 33, 0.7);
+    margin-bottom: 16px;
+}
+
+.sub-devp{
+    font-size: 16px;
+    font-family: "Azeret Mono", monospace;
+    color: rgba(13, 19, 33, 0.7);
+    margin-bottom: 32px;
+}
+
+.sub-devbtn{
+   font-size: 20px;
+   font-family: "Azeret Mono", monospace;
+   font-weight: 600;
+   color: rgba(13, 19, 33, 0.7);
+   background-color: white;
+   border-color: rgba(13, 19, 33, 0.7);
+   padding: 12px 20px;
+}
+
+.sub-dev2{
+    width: 274px;
+    height: 240px;
+}
+
+.sub-dev3{
+    width: 240px;
+    height: 240px;
+}
+
+.sub-dev4{
+    width: 477px;
+    height: 219px;
+}
+
+.sub-dev5{
+    width: 477px;
+    height: 219px;
+}
+
+.sub-dev6{
+    width: 240px;
+    height: 240px;
+}
+
+.last-dev{
+    padding-bottom: 30px;
+}
+
+
+
+
